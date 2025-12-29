@@ -12,7 +12,7 @@ function Navbar() {
         <h1 className="text-lg font-semibold tracking-wide">Style.Loom</h1>
         <div className="flex items-center gap-4">
           <ShoppingBag size={18} />
-          <button className="bg-[#AE9B84] px-4 py-2 rounded-lg text-sm">
+          <button className="bg-[#AE9B84] px-4 py-2 rounded-lg text-sm cursor-pointer">
             Contact
           </button>
         </div>
